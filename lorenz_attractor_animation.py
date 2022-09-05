@@ -96,7 +96,7 @@ class Application:
         pygame.quit()
 
 if __name__ == "__main__":
-    #Running the Application
+    #Running the App
     t = Application()
     t.on_execute()
 
