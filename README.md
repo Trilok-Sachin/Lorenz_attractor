@@ -1,4 +1,4 @@
-# Lorenz_attractor
+# Lorenz Attractor
 Julia and Python versions to simulate the Lorenz attractor Differential Equations
 
 1) Julia notebook using DifferentialEquations package to solve for Lorenz Attractor 
